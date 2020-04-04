@@ -6,4 +6,4 @@ def test_square():
 
 def test_cube():
     a = cube(5)
-    assert a.area() == 120
+    assert a.area() == 125
